@@ -44,7 +44,6 @@ C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\net
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
-C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.csprojAssemblyReference.cache
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.AssemblyInfoInputs.cache
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.AssemblyInfo.cs
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.csproj.CoreCompileInputs.cache
@@ -52,3 +51,9 @@ C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\net
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.dll
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.pdb
 C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\obj\Debug\netcoreapp3.1\ExcelWorkerService.genruntimeconfig.cache
+C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Anika\source\repos\SampleWorkerService\ExcelWorkerService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
